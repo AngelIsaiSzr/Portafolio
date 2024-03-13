@@ -1,0 +1,50 @@
+{
+    "menu": {
+        "item2": "About me",
+        "item3": "Skills",
+        "item4": "Training",
+        "item5": "Projects",
+        "item6": "Contact"
+    },
+
+    "home": {
+        "home_text-1": "Hi! I'm",
+        "home_text-3": "Full Stack Developer",
+        "parrafo-info": "Student of Programming Technician and passionate about programming as a Full Stack Developer. As a technology and development enthusiast, I strive to create innovative projects that provide the best user experience.",
+        "cv_button": "Download CV",
+        "contact_button": "Contact"
+    },
+
+    "sobre-mi": {
+        "title": "About me",
+        "texto_sobreMi": "I am a student of Technical Programming and a self-taught student of Full-Stack Web Development.<br>I aspire to obtain employment in the world of Web Development, gain experience, acquire new knowledge, and strengthen my professional life.<br><br>I am an empathetic and enthusiastic person, with competencies focused on teamwork, assertive communication, problem-solving, responsibility, and proactivity. I enjoy learning from others and constantly improving myself."
+    },
+
+    "habilidades": {
+        "title": "Skills"
+    },
+
+    "formacion": {
+        "title": "Training",
+        "formacion1": "Technical Programming",
+        "tiempo-formacion1": "2022 - In progress",
+        "formacion2": "Responsive Web Design",
+        "formacion3": "Web Development"
+    },
+
+    "proyectos": {
+        "title": "Projects",
+        "title-proyecto1": "Math",
+        "info-proyecto1": "A useful and fun tool for those who need assistance with their daily tasks. A simple website that contains some mathematical tools.",
+        "title-proyecto2": "Portfolio",
+        "info-proyecto2": "My personal web portfolio, where you can find some of my most outstanding projects, my technical skills and a bit about my background.",
+        "title-proyecto3": "Web Code Academy",
+        "info-proyecto3": "Learn to code with Web Code Academy. Find the best online courses to learn programming from scratch or improve your skills."
+    },
+
+    "contacto": {
+        "title": "Contact",
+        "text": "Complete the form below and I will contact you as soon as possible.",
+        "btn-enviar": "Send"
+    }
+}

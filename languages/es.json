@@ -1,0 +1,50 @@
+{
+    "menu": {
+        "item2": "Sobre mí",
+        "item3": "Habilidades",
+        "item4": "Formación",
+        "item5": "Proyectos",
+        "item6": "Contacto"
+    },
+
+    "home": {
+        "home_text-1": "Hola! Soy",
+        "home_text-3": "Full Stack Developer",
+        "parrafo-info": "Estudiante de Técnico en Programación y apasionado de la programación como Full Stack Developer. Como persona amante de la tecnología y el desarrollo busco crear proyectos innovadores que brinden la mejor experiencia para el usuario.",
+        "cv_button": "Descargar CV",
+        "contact_button": "Contacto"
+    },
+
+    "sobre-mi": {
+        "title": "Sobre mí",
+        "texto_sobreMi": "Soy estudiante de Técnico en Programación y estudiante autodidacta de Desarrollo Web Full-Stack.<br>Aspiro conseguir empleo en el mundo del Desarrollo Web, adquirir experiencia, nuevos conocimientos y fortalecer mi vida profesional.<br><br>Soy una persona empática y entusiasta, con competencias enfocadas en el trabajo en equipo, comunicación asertiva, resolución de problemas, responsable y proactiva, me gusta aprender de los demás y superarme continuamente."
+    },
+
+    "habilidades": {
+        "title": "Habilidades"
+    },
+
+    "formacion": {
+        "title": "Formación",
+        "formacion1": "Técnico en Programación",
+        "tiempo-formacion1": "2022 - En curso",
+        "formacion2": "Diseño Web Responsivo",
+        "formacion3": "Desarrollo Web"
+    },
+
+    "proyectos": {
+        "title": "Proyectos",
+        "title-proyecto1": "Mates",
+        "info-proyecto1": "Una herramienta útil y divertida para aquellos que necesitan ayuda en sus tareas cotidianas. Una página web simple que contiene algunas herramientas matemáticas.",
+        "title-proyecto2": "Portafolio",
+        "info-proyecto2": "Mi portafolio web personal, donde se encuentran algunos de mis proyectos más destacados, mis habilidades técnicas y un poco sobre mi formación.",
+        "title-proyecto3": "Web Code Academy",
+        "info-proyecto3": "Aprende a programar con Web Code Academy. Encuentra los mejores cursos en línea para aprender a programar desde cero o mejora tus habilidades."
+    },
+
+    "contacto": {
+        "title": "Contacto",
+        "text": "Completa el siguiente formulario y me pondré en contacto contigo lo antes posible.",
+        "btn-enviar": "Enviar"
+    }
+}

@@ -561,9 +561,24 @@ span+span {
     margin-bottom: 1.3rem;
 }
 
-img.logo-cecytev {
+img.logo-itesm {
+    width: 20rem;
     margin-top: 15px;
+}
+
+img.logo-cecytev {
     width: 25rem;
+    margin-top: 15px;
+}
+
+img.logo-Aprende {
+    width: 20rem;
+    margin: 2.4rem 0;
+}
+
+img.logo-Netzun {
+    width: 18rem;
+    margin: 2.4rem 0;
 }
 
 img.logo-freeCodeCamp {
@@ -632,11 +647,7 @@ img.logo-Sololearn {
     box-shadow: 0 10px 16px -6px rgb(5 5 5 / 30%), 0 25px 10px -24px rgb(5 5 5 / 10%);
 }
 
-.card_mates {
-    margin-bottom: 4rem;
-}
-
-.card_portafolio {
+.card_spaccing {
     margin-bottom: 4rem;
     border: 1px solid var(--eerie-black);
 }

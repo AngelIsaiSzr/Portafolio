@@ -113,9 +113,10 @@ div.btn {
 .container_parrafo-info p {
     font-family: 'Cooper Hewitt';
     color: var(--light-grey);
-    font-size: 1.4rem;
+    font-size: 1.5rem;
     letter-spacing: 1px;
     line-height: 2rem;
+    text-align: justify;
 }
 
 .container_button {
@@ -205,6 +206,7 @@ div.btn {
     font-size: 2rem;
     letter-spacing: .2rem;
     line-height: 2.8rem;
+    text-align: justify;
 }
 
 /* Habilidades */

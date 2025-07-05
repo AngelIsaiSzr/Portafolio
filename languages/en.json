@@ -10,14 +10,14 @@
     "home": {
         "home_text-1": "Hi! I'm",
         "home_text-3": "Full Stack Developer",
-        "parrafo-info": "Student of Programming Technician and passionate about programming as a Full Stack Developer. As a technology and development enthusiast, I strive to create innovative projects that provide the best user experience.",
+        "parrafo-info": "Mechatronics Engineering student at ITESM, as well as a passionate Full Stack Developer. As someone who loves technology and development, I strive to create innovative projects that deliver the best experience for users and the community.",
         "cv_button": "Download CV",
         "contact_button": "Contact"
     },
 
     "sobre-mi": {
         "title": "About me",
-        "texto_sobreMi": "I am a student of Technical Programming and a self-taught student of Full-Stack Web Development.<br>I aspire to obtain employment in the world of Web Development, gain experience, acquire new knowledge, and strengthen my professional life.<br><br>I am an empathetic and enthusiastic person, with competencies focused on teamwork, assertive communication, problem-solving, responsibility, and proactivity. I enjoy learning from others and constantly improving myself."
+        "texto_sobreMi": "I am a Technician in Programming, Web Integrity, and Big Data, with a specialization in Web Development. I have been self-taught in Full Stack Development for over 5 years.\nI aim to find a job in the programming field, gain experience, acquire new knowledge, and strengthen my professional career.\n\nI am an empathetic and enthusiastic person, with skills focused on teamwork, leadership, assertive communication, problem-solving, responsibility, and proactivity. I enjoy learning from others and continuously improving myself."
     },
 
     "habilidades": {
@@ -26,20 +26,29 @@
 
     "formacion": {
         "title": "Training",
-        "formacion1": "Technical Programming",
-        "tiempo-formacion1": "2022 - In progress",
-        "formacion2": "Responsive Web Design",
-        "formacion3": "Web Development"
+        "formacion1": "Engineering in Mechatronics",
+        "tiempo-formacion1": "2025 - In progress",
+        "formacion2": "Technical Programming",
+        "formacion3": "Technical Web Integrity",
+        "formacion4": "Web Specialization",
+        "formacion5": "Responsive Web Design",
+        "formacion6": "Web Development"
     },
 
     "proyectos": {
         "title": "Projects",
-        "title-proyecto1": "Math",
-        "info-proyecto1": "A useful and fun tool for those who need assistance with their daily tasks. A simple website that contains some mathematical tools.",
+        "title-proyecto1": "Web Code Academy",
+        "info-proyecto1": "Web Code Academy is an academy offering completely free programming and technology courses, aimed at fighting digital illiteracy.",
         "title-proyecto2": "Portfolio",
-        "info-proyecto2": "My personal web portfolio, where you can find some of my most outstanding projects, my technical skills and a bit about my background.",
-        "title-proyecto3": "Web Code Academy",
-        "info-proyecto3": "Learn to code with Web Code Academy. Find the best online courses to learn programming from scratch or improve your skills."
+        "info-proyecto2": "My personal web portfolio, where you can find some of my most outstanding projects, my technical skills, and a bit about my background.",
+        "title-proyecto3": "Web Code Academy (Legacy)",
+        "info-proyecto3": "Learn to code with Web Code Academy. Find the best online courses to start programming from scratch or improve your skills.",
+        "title-proyecto4": "Mates",
+        "info-proyecto4": "A useful and fun tool for those who need help with their everyday tasks. A simple website that contains some math tools.",
+        "title-proyecto5": "Salsas El Molcajete",
+        "info-proyecto5": "It originates from the culinary tradition of Veracruz, where each recipe has been carefully selected to offer the most authentic flavors of Mexican cuisine.",
+        "title-proyecto6": "EcoWorld",  
+        "info-proyecto6": "Website for eco-friendly products. The mission is to promote an environmentally responsible lifestyle by offering products that are respectful of nature."
     },
 
     "contacto": {

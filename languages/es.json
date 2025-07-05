@@ -10,14 +10,14 @@
     "home": {
         "home_text-1": "Hola! Soy",
         "home_text-3": "Full Stack Developer",
-        "parrafo-info": "Estudiante de Técnico en Programación y apasionado de la programación como Full Stack Developer. Como persona amante de la tecnología y el desarrollo busco crear proyectos innovadores que brinden la mejor experiencia para el usuario.",
+        "parrafo-info": "Estudiante de Ingeniería en Mecatrónica en el ITESM, así como apasionado de la programación como Full Stack Developer. Como persona amante de la tecnología y el desarrollo busco crear proyectos innovadores que brinden la mejor experiencia para el usuario y la comunidad.",
         "cv_button": "Descargar CV",
         "contact_button": "Contacto"
     },
 
     "sobre-mi": {
         "title": "Sobre mí",
-        "texto_sobreMi": "Soy estudiante Técnico en Programación y me dedico de manera autodidacta al Desarrollo Web Full-Stack.<br>Aspiro conseguir empleo en el mundo del Desarrollo Web, adquirir experiencia, nuevos conocimientos y fortalecer mi vida profesional.<br><br>Soy una persona empática y entusiasta, con competencias enfocadas en el trabajo en equipo, comunicación asertiva, resolución de problemas, responsable y proactiva, me gusta aprender de los demás y superarme continuamente."
+        "texto_sobreMi": "Soy Técnico en Programación, en Integridad Web y Big Data con una Especialización en Programación Web, me dedico de manera autodidacta al Desarrollo Full Stack desde hace más de 5 años.\nAspiro conseguir empleo en el mundo de la Programación, adquirir experiencia, nuevos conocimientos y fortalecer mi vida profesional.\n\nSoy una persona empática y entusiasta, con competencias enfocadas en el trabajo en equipo, liderazgo, comunicación asertiva, resolución de problemas, responsable y proactiva, me gusta aprender de los demás y superarme continuamente."
     },
 
     "habilidades": {
@@ -26,20 +26,29 @@
 
     "formacion": {
         "title": "Formación",
-        "formacion1": "Técnico en Programación",
-        "tiempo-formacion1": "2022 - En curso",
-        "formacion2": "Diseño Web Responsivo",
-        "formacion3": "Desarrollo Web"
+        "formacion1": "Ingeniería en Mecatrónica",
+        "tiempo-formacion1": "2025 - En curso",
+        "formacion2": "Técnico en Programación",
+        "formacion3": "Técnico en Integridad Web",
+        "formacion4": "Especialización Web",
+        "formacion5": "Diseño Web Responsivo",        
+        "formacion6": "Desarrollo Web"
     },
 
     "proyectos": {
         "title": "Proyectos",
-        "title-proyecto1": "Mates",
-        "info-proyecto1": "Una herramienta útil y divertida para aquellos que necesitan ayuda en sus tareas cotidianas. Una página web simple que contiene algunas herramientas matemáticas.",
+        "title-proyecto1": "Web Code Academy",
+        "info-proyecto1": "Web Code Academy es una academia de cursos de programación y tecnología completamente gratuitos, que combate el analfabetismo digital.",
         "title-proyecto2": "Portafolio",
         "info-proyecto2": "Mi portafolio web personal, donde se encuentran algunos de mis proyectos más destacados, mis habilidades técnicas y un poco sobre mi formación.",
-        "title-proyecto3": "Web Code Academy",
-        "info-proyecto3": "Aprende a programar con Web Code Academy. Encuentra los mejores cursos en línea para aprender a programar desde cero o mejora tus habilidades."
+        "title-proyecto3": "Web Code Academy (Legacy)",
+        "info-proyecto3": "Aprende a programar con Web Code Academy. Encuentra los mejores cursos en línea para aprender a programar desde cero o mejora tus habilidades.",
+        "title-proyecto4": "Mates",
+        "info-proyecto4": "Una herramienta útil y divertida para aquellos que necesitan ayuda en sus tareas cotidianas. Una página web simple que contiene algunas herramientas matemáticas.",
+        "title-proyecto5": "Salsas El Molcajete",
+        "info-proyecto5": "Nace de la tradición culinaria de Veracruz, donde cada receta ha sido cuidadosamente seleccionada para ofrecer los sabores más auténticos de la cocina mexicana.",
+        "title-proyecto6": "EcoWorld",
+        "info-proyecto6": "Sitio web de productos ecológicos. La misión es promover un estilo de vida responsable con el medio ambiente, ofreciendo productos que sean respetuosos con la naturaleza."
     },
 
     "contacto": {
